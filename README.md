@@ -1,4 +1,4 @@
-# 🛒 Zepto SQL Data Analysis 📊
+# 🛒 Zepto SQL Data Analysis 
 SQL analysis of Zepto dataset (sales, pricing insights etc.)
 
 📌 Project Overview
