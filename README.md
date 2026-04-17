@@ -20,4 +20,12 @@ PostgreSQL – Used for data storage and query execution.
 SQL (Structured Query Language) – Used for data analysis, filtering, and aggregations
 Kaggle – Used as a source for obtaining the dataset
 
+Key Insights
+Premium categories tend to have lower discount percentages, suggesting stable demand and pricing power.
+Certain categories dominate in terms of product availability, highlighting focus areas for inventory management.
+Price variations across categories indicate differentiated pricing strategies.
 
+📁 Project Structure
+zepto_analysis.sql → Contains all SQL queries used in the project
+zepto_v2.csv → Dataset file
+README.md → Project documentation
