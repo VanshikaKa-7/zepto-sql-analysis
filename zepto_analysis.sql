@@ -17,6 +17,7 @@ SET
     discountPercent = availableQunatity;
 select * from zepto;
 
+--DATA EXPLORATION
 --null values
 select * from zepto
 WHERE name is null
