@@ -10,22 +10,22 @@ Using PostgreSQL, raw data has been transformed into structured insights that si
 
 The main objective of this project is to:
 
-Understand pricing and discount trends across products.
-Analyze inventory availability and stock distribution.
-Identify category-wise performance patterns.
-Generate insights that can help improve pricing and sales strategies.
+1. Understand pricing and discount trends across products.
+2. Analyze inventory availability and stock distribution.
+3. Identify category-wise performance patterns.
+4. Generate insights that can help improve pricing and sales strategies.
 
 🛠️Tools & Technologies
-PostgreSQL – Used for data storage and query execution.
-SQL (Structured Query Language) – Used for data analysis, filtering, and aggregations
-Kaggle – Used as a source for obtaining the dataset
+1. PostgreSQL – Used for data storage and query execution.
+2. SQL (Structured Query Language) – Used for data analysis, filtering, and aggregations
+3. Kaggle – Used as a source for obtaining the dataset
 
 Key Insights
-Premium categories tend to have lower discount percentages, suggesting stable demand and pricing power.
-Certain categories dominate in terms of product availability, highlighting focus areas for inventory management.
-Price variations across categories indicate differentiated pricing strategies.
+1. Premium categories tend to have lower discount percentages, suggesting stable demand and pricing power.
+2. Certain categories dominate in terms of product availability, highlighting focus areas for inventory management.
+3. Price variations across categories indicate differentiated pricing strategies.
 
 📁 Project Structure
-zepto_analysis.sql → Contains all SQL queries used in the project
-zepto_v2.csv → Dataset file
-README.md → Project documentation
+1. zepto_analysis.sql → Contains all SQL queries used in the project
+2. zepto_v2.csv → Dataset file
+3. README.md → Project documentation
